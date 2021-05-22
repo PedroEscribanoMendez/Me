@@ -1,14 +1,16 @@
 ## Welcome
-`Hi there! You reached this depth inside the net...`
+`Hi there! You've reached this depth inside the net...`       
 
-### Personal Repository
+👁‍🗨 For best you can watch this content as a [Github Page](https://pedroescribanomendez.github.io/Me/)      
+👁‍🗨 Also, you can watch this content in [Spanish](https://pedroescribanomendez.github.io/Me/index-es.md) <img src="https://user-images.githubusercontent.com/84480770/119225663-6180e580-bb05-11eb-9e87-f83e12a40f7c.png" width="24" height="24" /> 
 
-Hello, this is my _own_ _site_ on **GitHub**.  
-You can take a look to [README.MD](https://github.com/PedroEscribanoMendez/Me/blob/gh-pages/README.md) for more info about myself.  
-For best you can watch this content in a [github page](https://pedroescribanomendez.github.io/Me/) setting 
+### Description
+Hello, this is my _own_ _site_ on  :octocat:**GitHub** .  
+You can take a look to [README.md](https://github.com/PedroEscribanoMendez/Me/blob/gh-pages/README.md) for more info about myself.  
+ 
 
 ```markdown
 🚧Site under construction...
 
-  🏗Coding in progress
+--- 🏗 Coding in progress ---
 ```
